@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing applications based on Computer vision and machine learning.
 - 🌱 I’m currently progressing my skills to develop better products with high quality and performance.
 - 💞️ I’m looking to collaborate on software projects with companies and end-users.
-- 📫 Visit my website to see some of my projects and products:
+- 📫 Visit my website to see some of my projects:
 - http://machinevision2050.ir/
 - my linkedin : 
 - https://www.linkedin.com/in/mv2050modern/
