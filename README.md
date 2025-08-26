@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arshad LF. , a software engineer.
+- 👋 Hi, I’m Arshad LF. , a software engineer. Computer vision engineer and AI.
 - 👀 I’m interested in developing applications based on Computer vision and machine learning.
 - 🌱 I’m currently progressing my skills to develop better products with high quality and performance.
 - 💞️ I’m looking to collaborate on software projects with companies and end-users.
